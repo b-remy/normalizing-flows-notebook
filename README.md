@@ -1,1 +1,1 @@
-# normalizing-flows-notebook
+# Tensorflow implementation of Normalizing Flows
